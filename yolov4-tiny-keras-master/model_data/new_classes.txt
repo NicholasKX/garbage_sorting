@@ -1,0 +1,7 @@
+can
+battery
+mask
+apple
+banana
+orange
+drug
